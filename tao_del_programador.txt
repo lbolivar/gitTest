@@ -1,4 +1,4 @@
-El Tao de la Programación - Versión original de Duke Hillard.
+﻿El Tao de la Programación - Versión original de Duke Hillard.
 
 Libro Uno: El Vacío Silencioso
 
@@ -303,3 +303,6 @@ Software y Hardware, avergonzados, regresaron a sus casas.
 Libro Nueve: Epílogo
 
 Así habló el maestro programador: "Es hora de que te marches."
+
+8.5
+Fin
